@@ -1,0 +1,5 @@
+Ikinci dosya
+Kullanici hangi dosyayi secerse
+o dosya ekrana yaziliyor
+fopen ve fgets
+Bitti

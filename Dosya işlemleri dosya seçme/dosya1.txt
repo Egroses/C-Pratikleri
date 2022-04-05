@@ -1,0 +1,5 @@
+Merhaba
+Bu birinci dosya
+Satir satir okunuyor
+Dosya islemleri
+Son satir

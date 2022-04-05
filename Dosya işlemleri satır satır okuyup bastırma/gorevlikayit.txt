@@ -1,0 +1,14 @@
+Mudur Ad-Soyad:Ali Yilmaz
+Mudur Cinsiyet:erkek
+Mudur E-Posta:ali.yilmaz@ornek.com
+Mudur Sifre:ornek123
+Mudur Telefon No:05000000000
+Mudur Aylik Maasi:30000
+
+
+Gorevli Ad-Soyad:Ayse Demir
+Gorevli Cinsiyet:kadin
+Gorevli E-Posta:ayse.demir@ornek.com
+Gorevli Sifre:ornek456
+Gorevli Telefon No:05000000001
+Gorevli Aylik Maasi:20000
